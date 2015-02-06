@@ -1,1 +1,9 @@
 /* Empty. Add your own CSS if you like */
+
+.helpsection {
+	padding: 20px;
+}
+
+.helpsection-h2 { 
+color: blue; 
+}
